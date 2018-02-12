@@ -1,0 +1,10 @@
+- Las horas de practica al digitar en la definicion en el plan de estudio debe de aceptar 3 digitos.
+- Plan de estudios (Mantenimiento de Equipos de Computo dice 4.5 creditos para el primer ciclo de computacion informatica) 
+  pero en la pantalla de creacion de seccion sale 5 creditos.
+- Orden por columnas.
+- DIBUJO TOPOGRAFICO ASISTIDO POR COMPUTADORA debe DIBUJO TOPOGRAFICO ASISTIDO POR COMPUTADOR.
+- MECANICA Y MOTORES debe de considerar MECANICA AUTOMOTRIZ ahora esta vacio.
+- REVISAR credito mecanica automotriz unidad(sistema de suspension y direccion creditos igual a 7)
+- No jaba la modificacion desde el plan de estudio.
+- 
+
